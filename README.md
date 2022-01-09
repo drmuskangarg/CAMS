@@ -1,5 +1,7 @@
 # CAMS
-CAMS: An Annotated Corpus for Causal Analysis of Mental health on Social media
+This repository is created to suuport the paper **'CAMS: An Annotated Corpus for Causal Analysis of Mental health on Social media'** 
+
+
 
 # Requirements
 
