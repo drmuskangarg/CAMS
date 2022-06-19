@@ -7,7 +7,7 @@ We introduce a new dataset for Causal Analysis of Mental health illness in Socia
 
 ## Dataset Overview
 
-The labeled data could be downloaded from [here](https://github.com/CMOONCS/CAMS/tree/main/data).
+The labeled data could be downloaded from [here](https://github.com/drmuskangarg/CAMS/tree/main/CAMS/data).
 
 ## Terms of use
 - This corpus can be used freely for research purposes.
